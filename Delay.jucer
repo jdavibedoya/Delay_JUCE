@@ -6,15 +6,17 @@
               pluginManufacturerCode="Davi" pluginCode="Drei" cppLanguageStandard="20">
   <MAINGROUP id="TpZ7oF" name="Delay">
     <GROUP id="{43B6D0A7-71E8-9739-8B2B-7E80D471E0FD}" name="Source">
+      <FILE id="GhhZKD" name="RotaryKnob.h" compile="0" resource="0" file="Source/RotaryKnob.h"/>
+      <FILE id="KyCM52" name="RotaryKnob.cpp" compile="1" resource="0" file="Source/RotaryKnob.cpp"/>
       <FILE id="B3WDVS" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters.cpp"/>
       <FILE id="o9X738" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
+      <FILE id="nPyZeM" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="tl8xIf" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
       <FILE id="nTv6Zh" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="mM1iyv" name="PluginProcessor.h" compile="0" resource="0"
             file="Source/PluginProcessor.h"/>
-      <FILE id="nPyZeM" name="PluginEditor.cpp" compile="1" resource="0"
-            file="Source/PluginEditor.cpp"/>
-      <FILE id="tl8xIf" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
